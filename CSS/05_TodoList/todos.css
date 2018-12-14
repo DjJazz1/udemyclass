@@ -1,0 +1,22 @@
+li {
+	border: 2px solid red;
+}
+
+
+
+#special{
+	background: yellow;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+/* body {
+	background: url(https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTc8rtvoTgPPZwdUadarZIx5abEDJQdWj81c5_bG_R5MW7aQYovqxwK5S7etRptG0vkm1.sG3zj3JXgEJXlo0wdALHlPad5HTW.iNA_gR0S1PcK8C6bj0WtM2otjx53tu2Zmm1zAdSdUhnKW74YIVZNy4eFk259N24G_Kwb0ep0Wu8-&h=1080&w=1920&format=jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+} */
+
+/* ul{
+	-webkit-text-fill-color:skyblue;
+} */
