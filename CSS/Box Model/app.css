@@ -1,0 +1,21 @@
+p {
+/*Content- Whith and Height */
+
+width: 50%;
+/*Border*/
+border: 2px solid blue;
+
+/*Padding*/
+/*padding: 10px;*/
+padding-left: 40px;
+
+/*Marging*/
+/*margin: 100px;
+margin-top: 500px;*/
+
+/*escribir los margenes en una sola linea "Superior, Derecha, Inferior, Izquierda"*/
+/* margin: 20px 40px 500px 100px; */
+
+/* crear margen automatico */
+margin: 0 auto 0 auto;
+}
