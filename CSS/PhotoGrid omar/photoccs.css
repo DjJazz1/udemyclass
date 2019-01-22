@@ -1,9 +1,10 @@
-img {
-  width: 100px;
+/*img {
+  width: 30%;
   float: left;
-}
+  margin: 1.66%;
+} */
 
-/* .container {
+.container {
   width: 100%;
   padding:2%;
   margin: 5px 0px 5px 0px;
@@ -12,4 +13,4 @@ img {
 img {
   width:30%;
   padding:1%; 
-}  */
+} 
